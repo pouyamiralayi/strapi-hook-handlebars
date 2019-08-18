@@ -1,0 +1,31 @@
+{
+  "name": "strapi-hook-handlebars",
+  "version": "1.0.0",
+  "description": "Handlebars hook for the Strapi framework",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strapi",
+    "hook",
+    "handlebars"
+  ],
+  "author": {
+   "name": "sarpedon333",
+    "email": "sarpedon000@gmail.com",
+    "url": "http://strapi.io"
+  },
+  "maintainers": [
+    {
+      "name": "sarpedon333",
+      "email": "sarpedon000@gmail.com",
+      "url": "http://strapi.io"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa-handlebars": "^2.0.0"
+  }
+}
